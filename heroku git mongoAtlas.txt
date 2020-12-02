@@ -1,0 +1,10 @@
+heroku = deploy
+mongodb atlas = server mongo db
+
+--HEROKU--
+ketika heroku dibuka maka akan menjalankan file Procfile
+
+--GIT--
+buka terminal -> git init -> git remote add origin 'link git'
+buat file .gitignore di paling luar, supaya node_modules ga dikirim
+kalo udah di terminal 'git add .' -> 'git commit -m "full project staycation"' -> 'git push origin master'

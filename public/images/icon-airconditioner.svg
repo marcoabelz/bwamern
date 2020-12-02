@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white"/>
+<mask id="path-1-inside-1" fill="white">
+<path d="M0 17C0 14.7909 1.79086 13 4 13H44C46.2091 13 48 14.7909 48 17V29C48 30.1046 47.1046 31 46 31H2C0.895431 31 0 30.1046 0 29V17Z"/>
+</mask>
+<path d="M0 17C0 14.7909 1.79086 13 4 13H44C46.2091 13 48 14.7909 48 17V29C48 30.1046 47.1046 31 46 31H2C0.895431 31 0 30.1046 0 29V17Z" stroke="#152C5B" stroke-width="6" mask="url(#path-1-inside-1)"/>
+<path d="M40 34L37.5 38L40 42" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M8 34L10.5 38L8 42" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M34.5 34L32 38L34.5 42" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M13.5 34L16 38L13.5 42" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M20 19L27.9999 19.0437" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M2 25L46.5 25" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+<path d="M2 25L46.5 25" stroke="#152C5B" stroke-width="3" stroke-linecap="round"/>
+</svg>

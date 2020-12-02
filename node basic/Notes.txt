@@ -1,0 +1,11 @@
+nodejs.org (module build in)
+
+https://www.npmjs.com/package/superheroes (module non build in)
+
+require = import
+
+framework node.js = express.js
+live server = nodemon (npm install -g nodemon)
+shortcut di terminal klik tab pada saat nulis command
+
+shortcut : ctrl + enter

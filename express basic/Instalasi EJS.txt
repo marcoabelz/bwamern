@@ -1,0 +1,5 @@
+render view menggunakan template engine EJS
+
+npm install ejs
+
+terminal ctrl + c

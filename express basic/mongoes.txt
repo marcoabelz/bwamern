@@ -1,0 +1,13 @@
+odm = object document modeling
+mongoose = mempermudah pemodelan data di mongo
+
+cara menggunakan :
+1. buat folder (open vsc)
+2. run terminal
+3. npm init (enter terus)
+4. npm install mongoose / npm i mongoose
+
+refresh MongoDB = ctrl + r
+
+cara run 
+node .\nama_file.js

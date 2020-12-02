@@ -1,0 +1,4 @@
+terminal 
+git add . 
+git commit -m "nama_update"
+git push origin master

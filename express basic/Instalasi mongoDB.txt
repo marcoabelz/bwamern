@@ -1,0 +1,7 @@
+https://www.mongodb.com/dr/fastdl.mongodb.org/windows/mongodb-windows-x86_64-4.4.0-signed.msi/download
+
+next -> complete -> finish
+
+mongo compas di hubungkan dengan database mongo (klik connect pada compas)
+
+mongo = GUI dari mongo / tools untuk mempermudah pengguna

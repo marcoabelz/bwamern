@@ -1,0 +1,13 @@
+Framework : express.js
+
+buat folder
+1. buka terminal -> npm init (enter terus) sampe yes
+
+2. npm install express --save (install expressJS)
+
+3. npm install -g nodemon (install live server)
+
+Kalo gabisa :
+1. clear cache npm (npm cache clean --force)
+
+Nodemon tidak berlaku untuk production, hanya development

@@ -1,0 +1,3 @@
+template sbadmin2 = digunakan untuk mempercepat proses development tanpa harus membuat semua dari awal
+
+npm i startbootstrap-sb-admin-2

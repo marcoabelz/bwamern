@@ -1,0 +1,13 @@
+Express Generator = gaperlu install manual expressnya (1 dan 2)
+npm install -g express-generator
+
+cmd
+1. express --view=pug myapp -> express --view=ejs server-staycation
+2 cd nama_folder
+3. npm install (kalo gabisa npm cache clean --force terus npm install lagi)
+4. npm start
+5. buka browser localhost:3000
+
+
+1. sebelumnya install express (npm install express --save)
+2. view engine (npm install ejs --save)
